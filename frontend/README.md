@@ -66,7 +66,7 @@ Access the API at: http://localhost:3000/pets
 
 Access Swagger UI at: http://localhost:3000/api-docs
 
-    🌍 Run as a full website (React front end + API):
+    Run as a full website (React front end + API):
 
         Start the Express API (npm run dev) in one terminal.
 
@@ -90,7 +90,7 @@ The test suite covers all CRUD endpoints: listing pets, retrieving by ID, editin
 
 This project teaches how to:
 
-    Structure and layer an Express API
+     Structure and layer an Express API
 
     Use Swagger to auto-document endpoints
 
