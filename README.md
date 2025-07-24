@@ -28,7 +28,7 @@ It simulates a **pet shelter registry** where users can create, read, update, an
 ## 🧱 Project Architecture
 
 The app follows a **layered architecture**:
-
+```
 📦 root
 ┣ 📂 db/ ← Mock DB (in-memory JSON)
 ┣ 📂 pets/
@@ -38,7 +38,7 @@ The app follows a **layered architecture**:
 ┣ 📂 public/ ← React app front end (via Vite)
 ┣ 📜 app.js ← Entry point + Swagger config
 ┗ 📜 README.md
-
+```
 
 ---
 
