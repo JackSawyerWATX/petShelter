@@ -75,7 +75,7 @@ Access Swagger UI at: http://localhost:3000/api-docs
         npm install
         npm run dev
 
-   🌍 The website will run at: http://localhost:5173 and interact with the API running on port 3000.
+   🌍 The website will run at: http://localhost:3000 and interact with the API running on port 3000.
 
 🧪 How to Test
 
