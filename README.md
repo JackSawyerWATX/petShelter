@@ -72,10 +72,8 @@ Access Swagger UI at: http://localhost:3000/api-docs
 
    In another terminal, navigate to your React app root:
 
-        ```
         npm install
         npm run dev
-        ```
 
    The website will run at: http://localhost:5173 and interact with the API running on port 3000.
 
