@@ -66,18 +66,18 @@ Access the API at: http://localhost:3000/pets
 
 Access Swagger UI at: http://localhost:3000/api-docs
 
-    🌍 Run as a full website (React front end + API):
+   🌍 Run as a full website (React front end + API):
 
-        Start the Express API (npm run dev) in one terminal.
+   Start the Express API (npm run dev) in one terminal.
 
-        In another terminal, navigate to your React app root:
+   In another terminal, navigate to your React app root:
 
         ```
         npm install
         npm run dev
         ```
 
-    The website will run at: http://localhost:5173 and interact with the API running on port 3000.
+   The website will run at: http://localhost:5173 and interact with the API running on port 3000.
 
 🧪 How to Test
 
